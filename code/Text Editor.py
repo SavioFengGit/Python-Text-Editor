@@ -76,7 +76,7 @@ def paste(): # Definisco la funzione paste, che non ha parametri.
     text_area.event_generate("<<Paste>>") #
 
 def about(): # Definisco la funzione about, che non ha parametri.
-    showinfo("About this program", "This is a program written by YOUUUUU!!!") # Creo una finestra di messaggio che mostra le informazioni sul programma, con il titolo "About this program" e il testo "This is a program written by YOUUUUU!!!".
+    showinfo("About this program", "Hello my friend!!!") # Creo una finestra di messaggio che mostra le informazioni sul programma, con il titolo "About this program" e il testo "This is a program written by YOUUUUU!!!".
 
 
 def quit(): # Definisco la funzione quit, che non ha parametri.
